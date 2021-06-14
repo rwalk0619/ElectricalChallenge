@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HVAC-2",
+"productVersion": "0.1",
+"dataUrl": "HVAC-II.data.unityweb",
+"wasmCodeUrl": "HVAC-II.wasm.code.unityweb",
+"wasmFrameworkUrl": "HVAC-II.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
